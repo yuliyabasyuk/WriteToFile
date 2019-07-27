@@ -14,7 +14,7 @@ public class WriteToFileTest {
         try {
             BufferedWriter bw =
                     new BufferedWriter(new FileWriter("./src/test/logFile.log"));
-            bw.write("User doesn't have permissions to access service \n");
+            bw.write("Changes are made: User doesn't have permissions to access service \n");
             bw.close();
         } catch (Exception e){
             e.getMessage();
