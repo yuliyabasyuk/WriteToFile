@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a72f25-4cf6-4002-9395-a09edb1cc1eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/WriteToFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WriteToFileTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/WriteToFileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="141">
+              <caret line="16" column="93" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,7 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564237627589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564238477877" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
@@ -266,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WriteToFileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="141">
+          <caret line="16" column="93" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="93" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

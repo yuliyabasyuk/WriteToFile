@@ -14,7 +14,8 @@ public class WriteToFileTest {
         try {
             BufferedWriter bw =
                     new BufferedWriter(new FileWriter("./src/test/logFile.log"));
-            bw.write("Changes are made: User doesn't have permissions to access service \n");
+            bw.write("Changes are made: User doesn't have permissions to access service \n"
+                    + System.currentTimeMillis());
             bw.close();
         } catch (Exception e){
             e.getMessage();
@@ -30,7 +31,7 @@ public class WriteToFileTest {
         while ((sCurrentLine = br.readLine()) != null) {
             if (sCurrentLine.contains("doesn't have permissions to access")) {
                 permissionsToAccessSkybase = false;
-                System.out.println("CHECK \n"+sCurrentLine);
+                System.out.println(""+sCurrentLine);
             }
         }
         return permissionsToAccessSkybase;
