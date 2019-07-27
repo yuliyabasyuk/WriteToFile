@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6a72f25-4cf6-4002-9395-a09edb1cc1eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/WriteToFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WriteToFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/logFile.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/logFile.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/WriteToFileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="16" column="93" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="93" />
+            <state relative-caret-position="359">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564238477877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564238662971" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
@@ -205,6 +206,9 @@
     <history-entry file="WriteToFileTest_WriteToFileTest - 2019.07.27 at 16h 45m 58s.xml">
       <configuration name="WriteToFileTest.WriteToFileTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="WriteToFileTest_WriteToFileTest - 2019.07.27 at 17h 44m 28s.xml">
+      <configuration name="WriteToFileTest.WriteToFileTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="63" width="1880" height="971" extended-state="0" />
@@ -220,8 +224,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32992035" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39817974" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39817974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -265,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WriteToFileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="16" column="93" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="93" />
+        <state relative-caret-position="359">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

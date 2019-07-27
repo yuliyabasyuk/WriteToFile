@@ -29,9 +29,9 @@ public class WriteToFileTest {
         BufferedReader br = new BufferedReader(new FileReader(logfilePath));
         String sCurrentLine;
         while ((sCurrentLine = br.readLine()) != null) {
+            System.out.println(""+sCurrentLine);
             if (sCurrentLine.contains("doesn't have permissions to access")) {
                 permissionsToAccessSkybase = false;
-                System.out.println(""+sCurrentLine);
             }
         }
         return permissionsToAccessSkybase;
