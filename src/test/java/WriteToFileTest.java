@@ -30,7 +30,7 @@ public class WriteToFileTest {
         while ((sCurrentLine = br.readLine()) != null) {
             if (sCurrentLine.contains("doesn't have permissions to access")) {
                 permissionsToAccessSkybase = false;
-                System.out.println(sCurrentLine);
+                System.out.println("CHECK \n"+sCurrentLine);
             }
         }
         return permissionsToAccessSkybase;
